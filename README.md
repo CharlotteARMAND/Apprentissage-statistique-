@@ -14,4 +14,4 @@ Pour le premier on fait une séparation de variables binaires, et pour le deuxi�
 
 Le compte rendu écrit en .tex suit une série de questions décrites dans le document TP_ML_SVM. Pour y répondre, nous avons utilisé le langage de programmation Python. Il est possible de faire le tp en téléchargeant le fichier TP_SVM.py ainsi que le fichier source svm_source.py qui possède certaines fonctions utiles pour nos démarches. Enfin, les résultats que nous avons obtenu, sous forme de graphiques sont présenté dans notre compte rendus, il vous faudra donc télécharger les .png présents dans le dossier figures pour les visualiser. Tous les fichiers en lien avec le TP réalisé sont dans le dossier TP.
 
-Une visualisation du compte rendu est possible via le fichier .pdf. 
+Une visualisation du compte rendu est possible via le fichier .pdf, qui se trouve avec le fichier .tex dans le dossier Compte rendu.  
